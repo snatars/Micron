@@ -10,9 +10,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
-public class basic {
+public class basic2 {
 	
-	static Logger log = LogManager.getLogger(basic.class);
+	static Logger log = LogManager.getLogger(basic2.class);
 @Test
 void test1() throws InterruptedException
 {
